@@ -6,7 +6,7 @@ VERSION
     1.0 
     
 AUTHOR
-	Valentina Arias Ojeda
+	Valentina Arias
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
